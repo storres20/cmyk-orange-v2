@@ -15,12 +15,22 @@
   --font-textFooter-mobile: 'Nunito'
 }
 
+/* footer rellenar vacio - start */
+html, body{
+  height:100%;
+  margin:0;
+  display: flex;
+  flex-direction: column;
+}
+/* footer rellenar vacio - end */
+
 footer{
   background-color: var(--main-color);
   font-family: var(--font-detal);
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
+  flex: 1; /* footer rellenar vacio */
 }
 
 .footer-icon{
