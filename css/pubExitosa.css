@@ -7,6 +7,19 @@
 /************** Custom Properties ***************/
 
 /************** Publicacion Exitosa version mobile - start ***************/
+/* footer rellenar vacio - start */
+html, body{
+  height:100%;
+  margin:0;
+  display: flex;
+  flex-direction: column;
+}
+
+footer{
+  flex: 1;
+}
+/* footer rellenar vacio - start */
+
 .btnGoBack {
   width: 100%;
   max-width: 36px;
