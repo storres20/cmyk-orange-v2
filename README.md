@@ -2,9 +2,11 @@
 
 Colab Orange es una aplicación web donde los Diseñadores y Desarrolladores pueden publicar sus propios proyectos y contribuir en otros.
 
+Este repositorio es un FORK del repositorio original en Frontend Cafe.
+
 ## Link de la app
 
-    https://cmyk-orange.vercel.app/
+    https://cmyk-orange.netlify.app/
 
 ## Como usar la app
 
@@ -15,15 +17,10 @@ Colab Orange es una aplicación web donde los Diseñadores y Desarrolladores pue
 ## Tecnologías usadas
 
     Para el front usamos HTML, CSS, Bootstrap
-    Para el back usamos <em>Cloud Firestore</em> de Firebase.
+    Para el back usamos <em>Cloud Firestore</em> de Firebase. Sin embargo, para este FORK se piensa usar Node Js
 
 ## Figma
 
     https://www.figma.com/file/XTr15PHT8uC6019wtqeoPG/ColabOrange-CMYK?node-id=47%3A7745
 
-## En caso de querer tener la app en tu local
 
-    Puedes simplemente forkear el proyecto,
-    clonarlo con `git clone https://github.com/frontendcafe/cmyk-orange.git`
-    o descargarlo
-    y ¡listo! tienes a Colab Orange contigo
