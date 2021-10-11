@@ -272,7 +272,7 @@
         margin-bottom: 0 !important;
         
         display: flex;
-        flex-direction: column-reverse;
+        flex-direction: column !important;
     }
     
     /* Imagen - start */
