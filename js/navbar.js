@@ -59,6 +59,12 @@ $(".hamburguesa").click(function(){
         
         $("#logonsb").attr("style","margin-left: 12px !important"); // logo naranja + COLAB ORANGE
         
+        $("#buscar").addClass("mobileHidden"); // oculta input buscar
+        $("#buscar").children().addClass("mobileHidden");
+        $("#buscar").attr("style","width: 0 !important");
+        
+        $(".logoHidden").attr("style","display: none !important"); // oculta logo solo
+        
         $(".navMobile > button > span").addClass("navbar-toggler-icon"); // muestra icono hamburguesa
         
         $(".xTag").hide(); // oculta icono X
