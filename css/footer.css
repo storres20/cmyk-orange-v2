@@ -15,6 +15,7 @@
   --font-textFooter-mobile: 'Nunito'
 }
 
+
 footer{
   background-color: var(--main-color);
   font-family: var(--font-detal);
