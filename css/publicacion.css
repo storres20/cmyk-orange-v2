@@ -21,6 +21,25 @@
 /************** Custom Properties ***************/
 
 /************** Versión mobile Publicacion de proyecto - start ***************/
+/* Imagen - start */
+.imgDesktop{
+  display: none;
+}
+
+.imgMobile{ /* imagen lado superior */
+    width: 190px !important;
+    height: auto;
+    object-fit: unset;
+    
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+/* Imagen - end */
+
 .btnGoBack {
   background-color: transparent;
   border: none;
@@ -126,6 +145,19 @@
 
 /************** Versión Desktop Publicacion de proyecto - start ***************/
 @media (min-width: 768px) {
+  /* Imagen - start */
+  .imgDesktop{ /* imagen lado derecho */
+    display: inline !important;
+    width: 639px !important;
+    height: 650px !important;
+    object-fit: none;
+  }
+  
+  .imgMobile{
+    display: none !important;
+  }
+  /* Imagen - end */
+
   /* Icono flecha naranja - start */
   .btnGoBack {
     margin: 54px 0px 0px 70px;
@@ -145,9 +177,9 @@
 
   #pubColumn {
     /* division en columnas Formulario / imagen */
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
     margin-top: 118px; /* distancia entre Titulo y Formulario */
     margin-bottom: 116px;
   }
@@ -156,7 +188,7 @@
   #pubColumn > img {
     /* imagen lado derecho */
     order: 2;
-    max-width: 500px;
+    max-width: 639px;
   }
   /* Imagen - end */
 
