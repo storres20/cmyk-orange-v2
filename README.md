@@ -3,7 +3,9 @@
 > Colab Orange es una aplicación web donde los Diseñadores y Desarrolladores pueden publicar sus propios proyectos y contribuir en otros.
 
 > Este repositorio es un FORK del repositorio original en Frontend Cafe.
+
 > En esta version se realizará mejoras y correcciones de errores.
+
 > Finalmente, se realizará una 3ra version con React js
 
 ## 🔭skils:
@@ -18,7 +20,7 @@
 
 ## 🌱 Beta version
 <ul>
-<li> <a href="https://cmyk-orange.netlify.app/" target="_blank">https://cmyk-orange.netlify.app/</a> </li>
+<li> <a href="https://cmyk-orange-v2.netlify.app/" target="_blank">https://cmyk-orange-v2.netlify.app/</a> </li>
 </ul>
 
 ## 🎨 Maquetado - Figma
