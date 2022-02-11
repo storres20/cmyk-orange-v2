@@ -1,26 +1,27 @@
-# cmyk-orange
+# ⚡CMYK-Orange ⚡
 
-Colab Orange es una aplicación web donde los Diseñadores y Desarrolladores pueden publicar sus propios proyectos y contribuir en otros.
+> Colab Orange es una aplicación web donde los Diseñadores y Desarrolladores pueden publicar sus propios proyectos y contribuir en otros.
 
-Este repositorio es un FORK del repositorio original en Frontend Cafe.
+> Este repositorio es un FORK del repositorio original en Frontend Cafe.
 
-## Link de la app
+## 🔭skils:
 
-    https://cmyk-orange.netlify.app/
+| `🔭Frontend` | `⚡Backend` | `📫Database` |
+| ------ | ------ | ------ | 
+| HTML | Firebase |  |
+| CSS |  |  |
+| Javascript |  |  |
+| Bootstrap |  |  |
 
-## Como usar la app
 
-    Puedes iniciar sesión con tu cuenta de google o registrarte con email y contraseña.
-    Ya eres parte de la comunidad de Colab Orange!
-    Ahora puedes crear un proyecto o aplicar para contribuir en uno, llenando los formularios correspondientes.
+## 🌱 Beta version
+<ul>
+<li> <a href="https://cmyk-orange.netlify.app/" target="_blank">https://cmyk-orange.netlify.app/</a> </li>
+</ul>
 
-## Tecnologías usadas
-
-    Para el front usamos HTML, CSS, Bootstrap
-    Para el back usamos <em>Cloud Firestore</em> de Firebase. Sin embargo, para este FORK se piensa usar Node Js
-
-## Figma
-
-    https://www.figma.com/file/XTr15PHT8uC6019wtqeoPG/ColabOrange-CMYK?node-id=47%3A7745
+## 🎨 Maquetado - Figma
+<ul>
+<li> <a href="https://www.figma.com/file/6PfcEJtVOg1H9ot4owLjNl/ColabOrange-CMYK-fork?node-id=0%3A1" target="_blank">https://www.figma.com/file/6PfcEJtVOg1H9ot4owLjNl/ColabOrange-CMYK-fork?node-id=0%3A1</a> </li>
+</ul>
 
 
