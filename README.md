@@ -1,8 +1,10 @@
-# ⚡CMYK-Orange ⚡
+# ⚡CMYK-Orange-v2 ⚡
 
 > Colab Orange es una aplicación web donde los Diseñadores y Desarrolladores pueden publicar sus propios proyectos y contribuir en otros.
 
 > Este repositorio es un FORK del repositorio original en Frontend Cafe.
+> En esta version se realizará mejoras y correcciones de errores.
+> Finalmente, se realizará una 3ra version con React js
 
 ## 🔭skils:
 
