@@ -6,7 +6,7 @@
 
 > En esta version se realizará mejoras y correcciones de errores.
 
-> Finalmente, se realizará una 3ra version con React js
+> Mas adelante, se realizará una 3ra version con React js
 
 ## 🔭skils:
 
